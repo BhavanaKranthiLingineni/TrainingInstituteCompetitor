@@ -90,25 +90,21 @@ with coli:
 
 # Checking if selected columns are numeric for 2D scatter plot
 if np.issubdtype(df[colname3].dtype, np.number) and np.issubdtype(df[colname4].dtype, np.number):
-    st.write(f"2D Scatter Plot: {colname3} vs {colname4} with {colname5} as color")
     fig = px.scatter(df, x=colname3, y=colname4, color=colname5, 
                      title=f"2D Scatter Plot: {colname3} vs {colname4} colored by {colname5}")
     st.plotly_chart(fig)
 
 # Checking for categorical-numeric combination for catplot
 elif df[colname3].dtype == object and np.issubdtype(df[colname4].dtype, np.number):
-    st.write(f"Categorical vs Numerical Catplot: {colname3} vs {colname4} with {colname5} as color")
     fig = px.strip(df, x=colname3, y=colname4, color=colname5, 
                    title=f"Catplot: {colname3} vs {colname4} colored by {colname5}")
     st.plotly_chart(fig)
 
 elif df[colname4].dtype == object and np.issubdtype(df[colname3].dtype, np.number):
-    st.write(f"Categorical vs Numerical Catplot: {colname4} vs {colname3} with {colname5} as color")
     fig = px.strip(df, x=colname4, y=colname3, color=colname5, 
                    title=f"Catplot: {colname4} vs {colname3} colored by {colname5}")
     st.plotly_chart(fig)
 elif df[colname3].dtype == object and df[colname4].dtype == object:
-    st.write(f"Bar Plot: {colname3} vs {colname4} with {colname5} as color")
     fig = px.bar(df, x=colname3, y=colname4, color=colname5, 
                  title=f"Bar Plot: {colname3} vs {colname4} colored by {colname5}", barmode='group')
     st.plotly_chart(fig)
