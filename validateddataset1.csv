@@ -1,0 +1,218 @@
+InstituteName,Location,CourseName,CourseFee,ModeOfTraining,Certification,InternshipIncluded,PlacementAssistance,NoOfStudents,Rating,Discounts
+Besant Technologies,Bangalore,DataScience,35000.0,Online&Offline,Yes,No,Yes,2245.0,4.0,No
+Besant Technologies,Bangalore,Python FullStack,40200.0,Online&Offline,Yes,No,Yes,2245.0,4.0,No
+Besant Technologies,Bangalore,Java FullStack,40200.0,Online&Offline,Yes,No,Yes,2245.0,4.0,No
+Besant Technologies,Bangalore,AWSDevops,62000.0,Online&Offline,Yes,No,Yes,2500.0,4.0,No
+Besant Technologies,Bangalore,DigitalMarketing,15000.0,Online&Offline,Yes,No,Yes,,4.0,No
+Upshot Tecnologies,Bangalore,DataScience,,Online&Offline,Yes,Yes,Yes,1300.0,4.6,Yes
+Upshot Tecnologies,Bangalore,Python FullStack,,Online&Offline,Yes,Yes,Yes,1100.0,4.6,Yes
+Upshot Tecnologies,Bangalore,Java FullStack,,Online&Offline,Yes,Yes,Yes,1100.0,4.6,Yes
+Upshot Tecnologies,Bangalore,AWSDevops,30000.0,Online&Offline,Yes,Yes,Yes,2500.0,4.6,Yes
+Upshot Tecnologies,Bangalore,DigitalMarketing,25000.0,Online&Offline,Yes,Yes,Yes,600.0,4.6,Yes
+Cloud Synergy,Bangalore,DataScience,,Online&Offline,Yes,No,Yes,,4.0,No
+Cloud Synergy,Bangalore,Python FullStack,,Online&Offline,Yes,No,Yes,,4.0,No
+Cloud Synergy,Bangalore,Java FullStack,,Online&Offline,Yes,No,Yes,,4.0,No
+Cloud Synergy,Bangalore,AWSDevops,,Online&Offline,Yes,No,Yes,,4.0,No
+Cloud Synergy,Bangalore,DigitalMarketing,,Online&Offline,Yes,No,Yes,,4.0,No
+TechStack Academy,Bangalore,DataScience,30000.0,Online&Offline,Yes,Yes,Yes,8400.0,4.0,No
+TechStack Academy,Bangalore,Python FullStack,36000.0,Online&Offline,Yes,Yes,Yes,8000.0,4.0,No
+TechStack Academy,Bangalore,Java FullStack,36000.0,Online&Offline,Yes,Yes,Yes,8000.0,4.0,No
+TechStack Academy,Bangalore,AWSDevops,,Online&Offline,Yes,Yes,Yes,,4.0,No
+TechStack Academy,Bangalore,DigitalMarketing,30000.0,Online&Offline,Yes,Yes,Yes,8439.0,4.0,No
+ACTE,Bangalore,DataScience,,Online&Offline,Yes,Yes,Yes,5455.0,4.2,No
+ACTE,Bangalore,Python FullStack,36000.0,Online&Offline,Yes,Yes,Yes,7234.0,4.2,No
+ACTE,Bangalore,Java FullStack,36000.0,Online&Offline,Yes,Yes,Yes,7234.0,4.2,No
+ACTE,Bangalore,AWSDevops,18000.0,Online&Offline,Yes,Yes,Yes,5255.0,4.2,No
+ACTE,Bangalore,DigitalMarketing,,Online&Offline,Yes,Yes,Yes,6987.0,4.2,No
+GetinTechnologies,Bangalore,DataScience,75000.0,Online&Offline,Yes,Yes,Yes,,4.2,Yes
+GetinTechnologies,Bangalore,Python FullStack,50000.0,Online&Offline,Yes,Yes,Yes,,4.2,Yes
+GetinTechnologies,Bangalore,Java FullStack,50000.0,Online&Offline,Yes,Yes,Yes,2000.0,4.2,Yes
+GetinTechnologies,Bangalore,AWSDevops,40000.0,Online&Offline,Yes,Yes,Yes,,4.2,Yes
+GetinTechnologies,Bangalore,DigitalMarketing,45000.0,Online,Yes,Yes,Yes,,4.2,Yes
+FITA Academy,Bangalore,DataScience,,Online&Offline,Yes,Yes,Yes,4984.0,3.0,Yes
+FITA Academy,Bangalore,Python,9000.0,Online&Offline,Yes,Yes,Yes,5508.0,3.0,Yes
+FITA Academy,Bangalore,Java FullStack,12000.0,Online&Offline,Yes,Yes,Yes,5508.0,3.0,Yes
+FITA Academy,Bangalore,AWSDevops,,Online&Offline,Yes,Yes,Yes,4656.0,3.0,Yes
+FITA Academy,Bangalore,DigitalMarketing,,Online&Offline,Yes,Yes,Yes,4218.0,3.0,Yes
+Achievers It Solutions,Bangalore,DataScience,,Online&Offline,Yes,No,Yes,2000.0,4.8,Yes
+Achievers It Solutions,Bangalore,Python,15000.0,Online&Offline,Yes,No,Yes,15000.0,4.8,Yes
+Achievers It Solutions,Bangalore,Java FullStack,,Online&Offline,Yes,No,Yes,10000.0,4.8,Yes
+Achievers It Solutions,Bangalore,AWSDevops,,Online&Offline,Yes,No,Yes,3000.0,4.8,Yes
+Achievers It Solutions,Bangalore,DigitalMarketing,,Online&Offline,Yes,No,Yes,5000.0,4.8,Yes
+SDLC,Bangalore,DataScience,,Online&Offline,Yes,No,Yes,1058.0,4.5,Yes
+SDLC,Bangalore,Python FullStack,,Online&Offline,Yes,No,Yes,1058.0,4.5,Yes
+SDLC,Bangalore,Java FullStack,,Online&Offline,Yes,No,Yes,1000.0,4.5,Yes
+SDLC,Bangalore,AWSDevops,,Online&Offline,Yes,No,Yes,1058.0,4.5,Yes
+SDLC,Bangalore,DigitalMarketing,,Online&Offline,Yes,No,Yes,1158.0,4.5,Yes
+Kodnest,Bangalore,Python FullStack,26999.0,Online,Yes,Yes,Yes,,4.7,Yes
+Kodnest,Bangalore,Java FullStack,31999.0,Offline,Yes,Yes,Yes,,4.7,Yes
+Kodnest,Bangalore,Python FullStack,27000.0,Online,Yes,Yes,Yes,,4.7,Yes
+Kodnest,Bangalore,Java FullStack,32000.0,Offline,Yes,Yes,Yes,,4.7,Yes
+Inventateq,Bangalore,DataScience,18999.0,Online,Yes,Yes,Yes,1729.0,4.8,No
+Inventateq,Bangalore,Python,18999.0,Online&Offline,Yes,Yes,Yes,839.0,4.8,No
+Inventateq,Bangalore,AWSDevops,45000.0,Online&Offline,Yes,Yes,Yes,677.0,4.8,No
+Inventateq,Bangalore,DigitalMarketing,25999.0,Online&Offline,Yes,Yes,Yes,926.0,4.8,No
+TIB Academy,Bangalore,Java FullStack,54000.0,Online&Offline,Yes,No,Yes,,4.5,Yes
+TIB Academy,Bangalore,Python,15000.0,Online&Offline,Yes,No,Yes,,4.5,Yes
+TIB Academy,Bangalore,DataScience,,Online&Offline,Yes,No,Yes,,4.5,Yes
+TIB Academy,Bangalore,AWSDevops,,Online&Offline,Yes,No,Yes,,4.5,Yes
+TIB Academy,Bangalore,DigitalMarketing,,Online&Offline,Yes,No,Yes,,4.5,No
+Codemithra,Bangalore,AWS,40000.0,Online&Offline,Yes,No,Yes,1000.0,4.8,No
+Codemithra,Bangalore,Python,,Online&Offline,Yes,No,Yes,,4.0,No
+Codemithra,Bangalore,Java,16948.0,Online&Offline,Yes,No,Yes,502.0,4.8,No
+Apponix,Bangalore,DataScience,30000.0,Online&Offline,Yes,No,Yes,3000.0,3.9,No
+Apponix,Bangalore,AWSDevops,,Online&Offline,Yes,No,Yes,3000.0,3.9,No
+Apponix,Bangalore,Java FullStack,,Online&Offline,Yes,No,Yes,3000.0,3.9,No
+Apponix,Bangalore,Python FullStack,,Online&Offline,Yes,No,Yes,3000.0,3.9,No
+Apponix,Bangalore,DigitalMarketing,36000.0,Online&Offline,Yes,No,Yes,3000.0,3.9,No
+Ria Institute Of Technology,Bangalore,DataScience,53100.0,Online&Offline,Yes,No,Yes,2000.0,4.5,No
+Ria Institute Of Technology,Bangalore,AWSDevops,36520.0,Online&Offline,Yes,No,Yes,2000.0,4.5,No
+Ria Institute Of Technology,Bangalore,Java FullStack,29500.0,Online&Offline,Yes,No,Yes,2000.0,4.5,No
+Ria Institute Of Technology,Bangalore,Python FullStack,29500.0,Online&Offline,Yes,No,Yes,2000.0,4.5,No
+360DigiTMG,Bangalore,DataScience,55000.0,Online&Offline,Yes,No,Yes,12561.0,4.7,No
+Excelr,Bangalore,DataScience,54999.0,Online,Yes,No,Yes,15213.0,4.8,Yes
+Excelr,Bangalore,DataScience,59999.0,Offline,Yes,No,Yes,15213.0,4.8,Yes
+MNP Technologies,Bangalore,AWSDevops,,Online&Offline,Yes,No,Yes,,4.6,No
+MNP Technologies,Bangalore,DigitalMarketing,,Online&Offline,Yes,No,Yes,,4.6,No
+MNP Technologies,Bangalore,DataScience,,Online&Offline,Yes,No,Yes,,4.6,No
+VersionIT,Hyderabad,DataScience,30000.0,Online&Offline,Yes,No,Yes,1000.0,5.0,Yes
+VersionIT,Hyderabad,Java FullStack,25000.0,Online&Offline,Yes,No,Yes,1000.0,5.0,Yes
+VersionIT,Hyderabad,Python FullStack,25000.0,Online&Offline,Yes,No,Yes,1000.0,5.0,Yes
+VersionIT,Hyderabad,AWSDevops,20000.0,Online&Offline,Yes,No,Yes,1000.0,5.0,Yes
+VersionIT,Hyderabad,DigitalMarketing,,Online&Offline,Yes,No,Yes,1000.0,5.0,Yes
+Digital Edify,Hyderabad,DataScience,25000.0,Online&Offline,Yes,No,Yes,50000.0,4.7,No
+Digital Edify,Hyderabad,Java FullStack,20000.0,Online&Offline,Yes,No,Yes,50000.0,4.7,No
+Digital Edify,Hyderabad,Python FullStack,20000.0,Online&Offline,Yes,No,Yes,50000.0,4.7,No
+Digital Edify,Hyderabad,AWSDevops,,Online&Offline,Yes,No,Yes,50000.0,4.7,No
+Digital Edify,Hyderabad,DigitalMarketing,,Online&Offline,Yes,No,Yes,50000.0,4.7,No
+Vcubes,Hyderabad,DataScience,,Online&Offline,Yes,No,Yes,2000.0,4.7,No
+Vcubes,Hyderabad,Java FullStack,30000.0,Online&Offline,Yes,No,Yes,2000.0,4.7,No
+Vcubes,Hyderabad,Python FullStack,30000.0,Online&Offline,Yes,No,Yes,2000.0,4.7,No
+Vcubes,Hyderabad,AWSDevops,22000.0,Online&Offline,Yes,No,Yes,2000.0,4.7,No
+Vcubes,Hyderabad,DigitalMarketing,30000.0,Online&Offline,Yes,No,Yes,1000.0,4.7,No
+Codegnan,Hyderabad,DataScience,75000.0,Online&Offline,Yes,No,Yes,2200.0,4.6,Yes
+Codegnan,Hyderabad,Java FullStack,50000.0,Online&Offline,Yes,No,Yes,2200.0,4.6,Yes
+Codegnan,Hyderabad,Python FullStack,,Online&Offline,Yes,No,Yes,2200.0,4.6,Yes
+Codegnan,Hyderabad,AWSDevops,,Online&Offline,Yes,No,Yes,2200.0,4.6,Yes
+Codegnan,Hyderabad,DigitalMarketing,,Online&Offline,Yes,No,Yes,,4.6,Yes
+Nexon IT Academy,Hyderabad,DataScience,,Online&Offline,Yes,No,Yes,,4.7,No
+Nexon IT Academy,Hyderabad,Java FullStack,,Online&Offline,Yes,No,Yes,,4.7,No
+Nexon IT Academy,Hyderabad,Python FullStack,,Online&Offline,Yes,No,Yes,,4.7,No
+Nexon IT Academy,Hyderabad,AWSDevops,20000.0,Online&Offline,Yes,No,Yes,,4.7,No
+Nexon IT Academy,Hyderabad,DigitalMarketing,,Online&Offline,Yes,No,Yes,,4.7,No
+Tronix Technologies,Hyderabad,DataScience,,Online&Offline,Yes,No,Yes,200.0,4.9,No
+Tronix Technologies,Hyderabad,Java FullStack,,Online&Offline,Yes,No,Yes,200.0,4.9,No
+Tronix Technologies,Hyderabad,Python FullStack,,Online&Offline,Yes,No,Yes,200.0,4.9,No
+Tronix Technologies,Hyderabad,AWSDevops,,Online&Offline,Yes,No,Yes,200.0,4.9,No
+Tronix Technologies,Hyderabad,DigitalMarketing,,Online&Offline,Yes,No,Yes,200.0,4.9,No
+Level Up,Hyderabad,DataScience,30000.0,Online&Offline,Yes,No,Yes,,4.7,No
+Level Up,Hyderabad,Java FullStack,30000.0,Online&Offline,Yes,No,Yes,,4.7,No
+Level Up,Hyderabad,Python FullStack,30000.0,Online&Offline,Yes,No,Yes,,4.7,No
+Level Up,Hyderabad,AWSDevops,30000.0,Online&Offline,Yes,No,Yes,,4.7,No
+Level Up,Hyderabad,DigitalMarketing,,Online&Offline,Yes,No,Yes,,4.7,No
+Innomatics Research Labs,Hyderabad,DataScience,90000.0,Online&Offline,Yes,Yes,Yes,1500.0,4.7,Yes
+Innomatics Research Labs,Hyderabad,Java FullStack,70210.0,Online&Offline,Yes,Yes,Yes,1500.0,4.7,Yes
+Innomatics Research Labs,Hyderabad,Python FullStack,70210.0,Online&Offline,Yes,Yes,Yes,1500.0,4.7,Yes
+Innomatics Research Labs,Hyderabad,AWSDevops,,Online&Offline,Yes,Yes,Yes,1500.0,4.7,Yes
+Innomatics Research Labs,Hyderabad,DigitalMarketing,,Online&Offline,Yes,Yes,Yes,1500.0,4.7,Yes
+XtremeTech,Hyderabad,DataScience,30000.0,Online&Offline,Yes,Yes,Yes,,5.0,Yes
+XtremeTech,Hyderabad,Java FullStack,26000.0,Online&Offline,Yes,Yes,Yes,,5.0,Yes
+XtremeTech,Hyderabad,Python FullStack,26000.0,Online&Offline,Yes,Yes,Yes,,5.0,Yes
+XtremeTech,Hyderabad,AWSDevops,17000.0,Online&Offline,Yes,Yes,Yes,,5.0,Yes
+XtremeTech,Hyderabad,DigitalMarketing,,Online&Offline,Yes,Yes,Yes,,5.0,Yes
+Vagdevi Technologies,Hyderabad,DataScience,25000.0,Online&Offline,Yes,Yes,Yes,,4.9,Yes
+Vagdevi Technologies,Hyderabad,Java FullStack,25000.0,Online&Offline,Yes,Yes,Yes,,4.9,Yes
+Vagdevi Technologies,Hyderabad,Python FullStack,25000.0,Online&Offline,Yes,Yes,Yes,,4.9,Yes
+Vagdevi Technologies,Hyderabad,AWSDevops,25000.0,Online&Offline,Yes,Yes,Yes,,4.9,Yes
+Vagdevi Technologies,Hyderabad,DigitalMarketing,15000.0,Online&Offline,Yes,Yes,Yes,,4.9,Yes
+Cloud Vision Technologies,Hyderabad,DataScience,48000.0,Online&Offline,Yes,No,Yes,,4.6,No
+Cloud Vision Technologies,Hyderabad,Java FullStack,,Online&Offline,Yes,No,Yes,,4.6,No
+Cloud Vision Technologies,Hyderabad,Python FullStack,,Online&Offline,Yes,No,Yes,,4.6,No
+Cloud Vision Technologies,Hyderabad,AWSDevops,28000.0,Online&Offline,Yes,No,Yes,,4.6,No
+Cloud Vision Technologies,Hyderabad,DigitalMarketing,,Online&Offline,Yes,No,Yes,,4.6,No
+360 DigiTMG,Hyderabad,DataScience,70000.0,Online&Offline,Yes,No,Yes,12561.0,4.7,Yes
+Srish Technologies,Hyderabad,Java FullStack,,Online&Offline,Yes,No,Yes,2184.0,4.7,No
+Srish Technologies,Hyderabad,AWSDevops,,Online&Offline,Yes,No,Yes,3276.0,4.7,No
+Datamites,Hyderabad,DataScience,59451.0,Online&Offline,Yes,Yes,Yes,26850.0,4.8,Yes
+Datamites,Hyderabad,Python,17999.0,Online&Offline,Yes,Yes,Yes,19990.0,4.8,No
+Social Prachaar,Hyderabad,DataScience,45000.0,Online&Offline,Yes,Yes,Yes,1600.0,4.7,Yes
+Social Prachaar,Hyderabad,Java FullStack,25000.0,Online&Offline,Yes,Yes,Yes,2600.0,4.7,Yes
+Social Prachaar,Hyderabad,Python FullStack,25000.0,Online&Offline,Yes,Yes,Yes,2900.0,4.7,Yes
+Social Prachaar,Hyderabad,AWSDevops,25000.0,Online&Offline,Yes,Yes,Yes,2800.0,4.7,Yes
+Social Prachaar,Hyderabad,DigitalMarketing,5000.0,Online&Offline,Yes,Yes,Yes,3200.0,4.7,Yes
+Naresh i Technogies,Hyderabad,DataScience,21000.0,Online&Offline,Yes,Yes,Yes,1000.0,5.0,Yes
+Naresh i Technogies,Hyderabad,Python FullStack,12000.0,Online&Offline,Yes,Yes,Yes,1000.0,4.5,Yes
+Naresh i Technogies,Hyderabad,Java FullStack,30000.0,Online&Offline,Yes,Yes,Yes,1000.0,4.5,Yes
+Naresh i Technogies,Hyderabad,AWSDevops,16000.0,Online&Offline,Yes,Yes,Yes,1000.0,5.0,Yes
+Naresh i Technogies,Hyderabad,DigitalMarketing,16000.0,Online&Offline,Yes,Yes,Yes,1000.0,5.0,Yes
+ExcelR,Hyderabad,DataScience,55000.0,Online&Offline,Yes,Yes,Yes,3000.0,4.5,Yes
+ExcelR,Hyderabad,Python FullStack,43000.0,Online&Offline,Yes,Yes,Yes,3000.0,4.5,Yes
+ExcelR,Hyderabad,Java FullStack,43000.0,Online&Offline,Yes,Yes,Yes,3000.0,4.5,Yes
+ExcelR,Hyderabad,AWSDevops,19000.0,Online&Offline,Yes,Yes,Yes,3000.0,4.5,Yes
+ExcelR,Hyderabad,DigitalMarketing,30000.0,Online&Offline,Yes,Yes,Yes,3000.0,4.5,Yes
+Imarticus Learning,Hyderabad,DataScience,198000.0,Online,Yes,Yes,Yes,2000.0,4.5,Yes
+Imarticus Learning,Hyderabad,Python FullStack,,Online,Yes,Yes,Yes,2000.0,4.5,Yes
+Imarticus Learning,Hyderabad,Java FullStack,,Online,Yes,Yes,Yes,2000.0,4.5,Yes
+Imarticus Learning,Hyderabad,DigitalMarketing,150000.0,Online,Yes,Yes,Yes,2000.0,4.5,Yes
+Sipnatech,Hyderabad,DataScience,40000.0,Online&Offline,Yes,Yes,Yes,100.0,4.8,No
+Sipnatech,Hyderabad,Python FullStack,30000.0,Online&Offline,Yes,Yes,Yes,100.0,4.8,No
+Sipnatech,Hyderabad,Java FullStack,30000.0,Online&Offline,Yes,Yes,Yes,100.0,4.8,No
+Sipnatech,Hyderabad,AWSDevops,25000.0,Online&Offline,Yes,Yes,Yes,100.0,4.8,No
+Sipnatech,Hyderabad,DigitalMarketing,15000.0,Online&Offline,Yes,Yes,Yes,100.0,4.8,No
+Datahill Solutions,Hyderabad,DataScience,38000.0,Online&Offline,Yes,Yes,Yes,50000.0,4.9,Yes
+Aditi Digital Solutions,Hyderabad,DataScience,40000.0,Online&Offline,Yes,Yes,Yes,100.0,4.5,Yes
+Aditi Digital Solutions,Hyderabad,Python FullStack,40000.0,Online&Offline,Yes,Yes,Yes,100.0,4.8,Yes
+Aditi Digital Solutions,Hyderabad,Java FullStack,40000.0,Online&Offline,Yes,Yes,Yes,100.0,4.8,Yes
+Aditi Digital Solutions,Hyderabad,AWSDevops,20000.0,Online&Offline,Yes,Yes,Yes,100.0,4.8,Yes
+Aditi Digital Solutions,Hyderabad,DigitalMarketing,20000.0,Online&Offline,Yes,Yes,Yes,100.0,4.8,Yes
+Digital Nest,Hyderabad,DataScience,55000.0,Online&Offline,Yes,Yes,Yes,,4.5,No
+OdinSchool,Hyderabad,DataScience,99000.0,Online,Yes,No,Yes,,4.2,Yes
+Learnbay,Hyderabad,DataScience,75000.0,Online&Offline,Yes,Yes,Yes,,4.7,No
+Algorithm by IITian,Hyderabad,DataScience,,Online&Offline,Yes,Yes,Yes,,4.7,Yes
+Algorithm by IITian,Hyderabad,Python FullStack,40000.0,Online&Offline,Yes,Yes,Yes,,4.7,Yes
+Algorithm by IITian,Hyderabad,Java FullStack,40000.0,Online&Offline,Yes,Yes,Yes,,4.7,Yes
+Algorithm by IITian,Hyderabad,AWSDevops,,Online&Offline,Yes,Yes,Yes,,4.7,Yes
+Algorithm by IITian,Hyderabad,DigitalMarketing,20000.0,Online&Offline,Yes,Yes,Yes,,4.7,Yes
+Simplilearn,Hyderabad,DataScience,57000.0,Online&Offline,Yes,No,No,,4.6,No
+Simplilearn,Hyderabad,Python FullStack,15000.0,Online&Offline,Yes,No,No,,4.6,No
+Simplilearn,Hyderabad,Java FullStack,15000.0,Online&Offline,Yes,No,No,,4.6,No
+Simplilearn,Hyderabad,AWSDevops,20000.0,Online&Offline,Yes,No,No,,4.6,No
+Simplilearn,Hyderabad,DigitalMarketing,10000.0,Online&Offline,Yes,No,No,,4.6,No
+Jupiter Technologies,Hyderabad,AWSDevops,40000.0,Online&Offline,Yes,Yes,Yes,,3.5,Yes
+AlmaBetter,Bangalore,DataScience,75000.0,Online,Yes,Yes,Yes,2354.0,4.6,No
+Akshara,Bangalore,Python FullStack,30000.0,Online&Offline,Yes,No,Yes,,3.7,No
+Akshara,Bangalore,Java FullStack,35000.0,Online&Offline,Yes,No,Yes,,3.7,No
+Akshara,Bangalore,AWSDevops,23000.0,Online&Offline,Yes,No,Yes,,3.7,No
+Learn More Technologies,Bangalore,DataScience,,Online&Offline,Yes,No,Yes,300.0,3.8,No
+Learn More Technologies,Bangalore,Python,,Online&Offline,Yes,No,Yes,351.0,3.8,No
+Learn More Technologies,Bangalore,Java,,Online&Offline,Yes,No,Yes,200.0,3.8,No
+Learn More Technologies,Bangalore,AWSDevops,,Online&Offline,Yes,No,Yes,430.0,3.8,No
+Cambridge Infotech,Bangalore,DataScience,15000.0,Online&Offline,Yes,No,Yes,1000.0,4.7,No
+Cambridge Infotech,Bangalore,Python,12000.0,Online&Offline,Yes,No,Yes,1000.0,4.7,No
+Cambridge Infotech,Bangalore,Java,12000.0,Online&Offline,Yes,No,Yes,1000.0,4.7,No
+Infocampus,Bangalore,DataScience,,Online&Offline,Yes,No,Yes,5000.0,4.7,No
+Infocampus,Bangalore,Python,,Online&Offline,Yes,No,Yes,5000.0,4.7,No
+Infocampus,Bangalore,Java FullStack,,Online&Offline,Yes,No,Yes,5000.0,4.7,No
+VTHREESOFT Technologies,Bangalore,Python FullStack,,Online&Offline,Yes,No,Yes,,4.9,No
+VTHREESOFT Technologies,Bangalore,Java FullStack,,Online&Offline,Yes,No,Yes,,4.9,No
+Xpresdata Software Academy,Bangalore,AWSDevops,,Online&Offline,Yes,No,Yes,,4.9,No
+Fast Learning Technologies,Bangalore,Python,13000.0,Online&Offline,Yes,No,Yes,698.0,4.3,No
+Fast Learning Technologies,Bangalore,Java,13000.0,Online&Offline,Yes,No,Yes,538.0,4.3,No
+Fast Learning Technologies,Bangalore,AWSDevops,26000.0,Online&Offline,Yes,No,Yes,600.0,4.3,No
+H Source Technologies,Bangalore,Python,,Online&Offline,Yes,No,Yes,,4.8,No
+H Source Technologies,Bangalore,Java,6000.0,Online&Offline,Yes,No,Yes,,4.8,No
+H Source Technologies,Bangalore,AWS,,Online&Offline,Yes,No,Yes,,4.8,No
+J Spiders,Bangalore,Java FullStack,26000.0,Online,Yes,No,Yes,,4.6,No
+Q Spiders,Bangalore,Python FullStack,,Online&Offline,Yes,No,Yes,,4.0,No
+Q Spiders,Bangalore,Java FullStack,,Online&Offline,Yes,No,Yes,,4.0,No
+Grotechminds,Bangalore,Java FullStack,30000.0,Online,Yes,No,Yes,34.0,4.2,Yes
+Grotechminds,Bangalore,DigitalMarketing,44999.0,Online,Yes,No,Yes,,4.2,Yes
+Allytech,Bangalore,DataScience,35000.0,Offline,Yes,Yes,Yes,,4.7,No
+Allytech,Bangalore,Python,,Offline,Yes,Yes,Yes,,4.7,No
+Allytech,Bangalore,AWS,30000.0,Offline,Yes,Yes,Yes,,4.7,No
+Aadya Institute,Bangalore,Python FullStack,,Online&Offline,Yes,No,Yes,,4.5,Yes
+Aadya Institute,Bangalore,DigitalMarketing,,Online&Offline,Yes,No,Yes,,4.5,Yes
+Tecsacon Technologies,Bangalore,DataScience,25000.0,Online&Offline,Yes,No,Yes,,4.6,No
+Tecsacon Technologies,Bangalore,Python,22000.0,Online&Offline,Yes,No,Yes,,4.6,No
+Tecsacon Technologies,Bangalore,Java,22000.0,Online&Offline,Yes,No,Yes,,4.6,No
+Tecsacon Technologies,Bangalore,AWSDevops,,Online&Offline,Yes,No,Yes,,4.6,No
