@@ -107,5 +107,8 @@ elif df[colname4].dtype == object and np.issubdtype(df[colname3].dtype, np.numbe
     fig = px.strip(df, x=colname4, y=colname3, color=colname5, 
                    title=f"Catplot: {colname4} vs {colname3} colored by {colname5}")
     st.plotly_chart(fig)
-else:
-    st.write("Please select at least one numeric variable for the scatter or catplot.")
+elif df[colname3].dtype == object and df[colname4].dtype == object:
+    st.write(f"Bar Plot: {colname3} vs {colname4} with {colname5} as color")
+    fig = px.bar(df, x=colname3, y=colname4, color=colname5, 
+                 title=f"Bar Plot: {colname3} vs {colname4} colored by {colname5}", barmode='group')
+    st.plotly_chart(fig)
